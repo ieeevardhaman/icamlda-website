@@ -1,0 +1,8 @@
+title: ICAMLDA 2021
+author:
+  name: V Tejesh
+  email: tejeshvenna@gmail.com
+subtitle: 3rd International Conference on Applied Machine Learning and Data Analytics (AMLDA).
+description: The AMLDA 2021 is a premier interdisciplinary platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions.
+kramdown:
+  parse_block_html: true
